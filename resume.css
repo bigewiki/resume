@@ -35,7 +35,7 @@
 }
 
 #personal {
-  padding: 20px;
+  padding: 20px 20px 0px 0px;
 }
 
 footer {
@@ -58,4 +58,13 @@ ol li {
 
 .hr-wrapper {
   width: 100%;
+}
+
+#logo {
+  max-width: 80%;
+  height: auto;
+}
+
+#logo-wrapper {
+  padding: 20px;
 }
